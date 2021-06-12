@@ -9,7 +9,7 @@ public Daddy(Club club){
 }
 
 
-public void shoot(Club club){
+public void shoot(){
 
     club.shooting();
 }
