@@ -1,4 +1,4 @@
-public interface club{
+public interface Club{
 
 public void shooting();
 
